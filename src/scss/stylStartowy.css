@@ -23,7 +23,8 @@
     --main-link-forecolor: rgba(86, 194, 227, 1);
     --main-link-hover-forecolor: rgba(106, 214, 247, 1);
     
-    --footer-color: rgba(48, 18, 18, 1);
+    --footer-backcolor: rgba(48, 18, 18, 1);
+    --footer-forecolor: rgb(139, 246, 251);
     
     --section-background: rgb(100, 114, 193);
     --section-boxes: rgb(96, 103, 146);
