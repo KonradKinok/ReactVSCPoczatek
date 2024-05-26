@@ -12,7 +12,6 @@ export const App1 = () => {
         color: '#010101'
       }}
     >
-    
     </div>
     
    
